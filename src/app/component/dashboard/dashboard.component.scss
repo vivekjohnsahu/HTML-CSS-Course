@@ -1,0 +1,26 @@
+.main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+header {
+    height: 118px;
+    text-align: center;
+}
+nav {
+    background-color: rgba(0, 0, 0, 0.338); 
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    color: black;
+}
+nav a:hover {
+    color: white;
+}
